@@ -32,6 +32,6 @@ An end-to-end, multi-layer analytics engineering data pipeline that replicates e
 ---
 
 ## ✉️ Connect With Me
-* **LinkedIn:** [Insert Your LinkedIn Profile Link]
+* **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/lana-voynich-4b658557/)]
 * **Email:** lvoynich@mac.com
 * **Professional Focus:** Open to remote Analytics Engineering, Data Engineering, and Data Infrastructure opportunities.
