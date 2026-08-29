@@ -1,16 +1,14 @@
 # 👋 Hello, I'm Lana Voynich
-
-### Data & Analytics Engineer | Database Migration Specialist
-📍 Lake Nebagamon, WI (Remote) 
+### Programmer Analyst & Aspiring Data / Analytics Engineer 
+📍 Lake Nebagamon, WI (Remote)
 
 I am an enterprise-scale software developer and database specialist with over 15 years of experience architecting, transforming, and optimizing relational data solutions. My career focuses on stripping away the friction of legacy IT systems and engineering modern, cloud-ready data lakehouse layers that serve as a business's single source of truth.
 
 ---
 
 ## 🛠️ My Technical Toolkit
-
 * **Languages & Core Analytics:** Advanced SQL (ANSI, PL/SQL), Python (Pandas), Perl, PHP, JavaScript, Bash Shell Scripting
-* **Modern Data Stack & RDBMS:** Data Modeling (Star/Snowflake Schema), Oracle EBS, MySQL, Informix, SQLite, Git/GitHub, Vim
+* **Modern Data Stack & RDBMS:** Data Modeling (Star/Snowflake Schema), Snowflake, Oracle EBS, MySQL, Informix, SQLite, Git/GitHub, Vim, dbt Core
 * **Business Intelligence & Compliance:** Microsoft Power BI, Hyperion, BI Publisher, SOX Compliance, Enterprise Change Control
 
 ---
@@ -24,8 +22,8 @@ An end-to-end, multi-layer analytics engineering data pipeline that replicates e
 * **Data Science:** Developed an automated recommendation engine in Python utilizing a custom Spatial Euclidean distance algorithm for real-time personalization.
 
 ### ❄️ [Cloud Data Pipeline: Dog Sports Performance & Budget Tracker](https://github.com/lvoynich/dog-sports-pipeline)
+An end-to-end modern data stack pipeline that extracts transactional agility/performance metrics from local environments, ingests them securely to a cloud warehouse, and models clean data dimensions.
 * **Core Stack:** Python (Pandas, Cryptography) | Snowflake Cloud Data Warehouse | dbt Core (SQL) | Git
-* **What It Is:** An end-to-end modern data stack pipeline that extracts transactional agility/performance metrics from local environments, ingests them securely to a cloud warehouse using 2048-bit RSA Key-Pair Authentication, and models clean data dimensions.
 * **Key Engineering Implementations:**
   * Engineered a secure Python ETL pipeline that decrypts localized private key certificates to safely bypass traditional password entry points.
   * Implemented an enterprise-grade analytics transformation layer using dbt Core inside Snowflake to build optimized star-schema data models.
@@ -40,6 +38,6 @@ An end-to-end, multi-layer analytics engineering data pipeline that replicates e
 ---
 
 ## ✉️ Connect With Me
-* **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/lana-voynich-4b658557/)]
+* **LinkedIn:** [Lana Voynich on LinkedIn](https://www.linkedin.com/in/lana-voynich-4b658557/)
 * **Email:** lvoynich@mac.com
 * **Professional Focus:** Open to remote Analytics Engineering, Data Engineering, and Data Infrastructure opportunities.
