@@ -23,7 +23,7 @@ An end-to-end, multi-layer analytics engineering data pipeline that replicates e
 * **Analytics Engineering:** Modeled advanced relational SQL transformations to calculate business KPI metrics and clean dirty fields into governed dimension tables.
 * **Data Science:** Developed an automated recommendation engine in Python utilizing a custom Spatial Euclidean distance algorithm for real-time personalization.
 
-### ❄️ [Cloud Data Pipeline: Dog Sports Performance & Budget Tracker](https://github.com/lvoynich/dog-sports-pipeline
+### ❄️ [Cloud Data Pipeline: Dog Sports Performance & Budget Tracker](https://github.com/lvoynich/dog-sports-pipeline)
 * **Core Stack:** Python (Pandas, Cryptography) | Snowflake Cloud Data Warehouse | dbt Core (SQL) | Git
 * **What It Is:** An end-to-end modern data stack pipeline that extracts transactional agility/performance metrics from local environments, ingests them securely to a cloud warehouse using 2048-bit RSA Key-Pair Authentication, and models clean data dimensions.
 * **Key Engineering Implementations:**
