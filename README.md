@@ -44,5 +44,6 @@ An automated Python processing pipeline and ReportLab PDF layout engine that alg
 ---
 
 ## ✉️ Connect With Me
-
+* **LinkedIn:** [Lana Voynich on LinkedIn](https://www.linkedin.com/in/lana-voynich-4b658557/)
+* **Email:** lvoynich@mac.com
 * **Professional Focus:** Open to remote Analytics Engineering, Data Engineering, and Data Infrastructure opportunities.
