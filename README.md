@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Lana Voynich
-### Programmer Analyst & Aspiring Data / Analytics Engineer 
+### Programmer Analyst & Analytics / Data Engineer 
 📍 Lake Nebagamon, WI (Remote)
 
 I am an enterprise-scale software developer and database specialist with over 15 years of experience architecting, transforming, and optimizing relational data solutions. My career focuses on stripping away the friction of legacy IT systems and engineering modern, cloud-ready data lakehouse layers that serve as a business's single source of truth.
@@ -29,6 +29,12 @@ An end-to-end modern data stack pipeline that extracts transactional agility/per
   * Implemented an enterprise-grade analytics transformation layer using dbt Core inside Snowflake to build optimized star-schema data models.
   * Established automated data quality governance by writing schema test assertions (null validation controls) to capture pipeline errors before production layers compile.
 
+### 🎨 [Programmatic 3D Layout & Data Ingestion Engine](https://github.com)
+An automated Python processing pipeline and ReportLab PDF layout engine that algorithmically structures multi-source JSON payloads into a 365-day fully interactive digital journal.
+* **Automated Data Seed Pipeline:** Engineered custom harvesting workflows (`build_365_prompts.py` / `build_365_quotes.py`) to process and sanitize year-long quote arrays and creative prompts into clean JSON data schemas.
+* **Interactive Geometry Engine:** Developed an advanced layout compilation matrix utilizing low-level vector transformations to paint responsive, clickable sidebar month binder tabs, an all-in-one index quick-jump grid, and localized tracking grids.
+* **State Management Operations:** Programmed loop state tracking variables to dynamically identify monthly interval boundaries, auto-injecting cached benchmark targets on page transitions to provide user growth review sheets.
+
 ---
 
 ## 🎯 What I'm Building Next
@@ -38,6 +44,5 @@ An end-to-end modern data stack pipeline that extracts transactional agility/per
 ---
 
 ## ✉️ Connect With Me
-* **LinkedIn:** [Lana Voynich on LinkedIn](https://www.linkedin.com/in/lana-voynich-4b658557/)
-* **Email:** lvoynich@mac.com
+
 * **Professional Focus:** Open to remote Analytics Engineering, Data Engineering, and Data Infrastructure opportunities.
