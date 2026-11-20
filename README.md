@@ -35,4 +35,4 @@ Enterprise data and software engineer with 15+ years of experience designing rel
 ## ✉️ Connect With Me
 * **LinkedIn:** [Lana Voynich on LinkedIn](https://www.linkedin.com/in/lana-voynich-4b658557/)
 * **Email:** lvoynich@mac.com
-* **Professional Focus:** Open to remote Analytics Engineering, Data Engineering, and Data Infrastructure opportunities.
+* **Professional Focus:** Open to remote Analytics Engineering and Data Engineering opportunities.
