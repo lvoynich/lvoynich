@@ -13,6 +13,11 @@ Enterprise data and software engineer with 15+ years of experience designing rel
 
 ## Featured Engineering Projects
 
+### [Animal Shelter Operations & Stay Analytics ELT](https://github.com/lvoynich/shelter-analytics-elt)
+*End-to-end analytics engineering pipeline built with **Python**, **dbt Core**, **Google BigQuery**, and **GitHub Actions**.*
+* **Ingestion & Warehousing:** Built a fault-tolerant Python REST API ingestion script (`The Dog API`) and transformed ~80,000 shelter records into a partitioned, clustered Kimball star schema (`dim_animals` and an incremental `MERGE` `fct_shelter_stays`).
+* **Entity Resolution & Data Quality:** Engineered a `dbt seed` crosswalk that boosted canine breed match rates from 59.6% to **99.5%**, governed by 30+ automated schema and window-function anomaly tests plus a green CI/CD pipeline (`Ruff`, `SQLFluff`, and `dbt parse`).
+
 ### Cloud Data Pipeline: Dog Sports Performance & Budget Tracker
 - **Stack:** Python, Snowflake, dbt Core, Git
 - **Highlights:** Automated Python ingestion into Snowflake; layered dbt Core transformation architecture; automated schema testing (`not_null`, uniqueness).
