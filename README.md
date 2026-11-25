@@ -10,7 +10,7 @@ I build reliable, well-tested backend data pipelines and governed dimensional mo
 * **Orchestration & Containers:** Prefect 3 (`prefect-dbt`), Docker (`python:3.11-slim`), GitHub Actions CI/CD
 * **Transformation & Modeling:** dbt Core (incremental models, seeds, snapshots, tests), Kimball Dimensional Modeling, Medallion Architecture
 * **Languages & Data Processing:** Python (`pandas`, `requests`), Advanced SQL (CTEs, window functions, query optimization), Bash, Perl
-* **Cloud Warehouses & Databases:** Google BigQuery, Snowflake, DuckDB, Oracle, PostgreSQL, MySQL, SQL Server
+* **Cloud Warehouses & Databases:** Google BigQuery, Snowflake, Oracle, PostgreSQL, MySQL, SQL Server
 * **Data Quality & Governance:** Source-to-target reconciliation, deduplication, automated schema/singular testing, SQLFluff, Ruff, RBAC & PII protection
 
 ---
